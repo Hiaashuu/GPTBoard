@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/d00d362d-078f-4d8f-8b17-1544fb62cb37
 
 ## Tested Keyboards
 
-- [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
+- [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.modd3r)
 
 - [Swiftkey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
 
