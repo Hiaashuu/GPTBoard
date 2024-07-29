@@ -29,7 +29,7 @@ public class MainHook implements IXposedHookLoadPackage {
         }
 
         switch (lpparam.packageName) {
-            case "com.google.android.inputmethod.latin":
+            case "com.google.android.inputmethod.modd3r":
             case "com.touchtype.swiftkey":
             case "com.syntellia.fleksy.keyboard":
             default:
